@@ -1,0 +1,225 @@
+@media (max-width:767.98px){
+    .paragraph-p1{
+        width: 123%;
+    }
+    .num-p-flex-center{
+        margin-left: 23%;
+        width: 57%;
+    }
+    .num-p-flex{
+        display: none;
+    }
+    .p2-flex{
+        flex-wrap: wrap;
+    }
+    .p3-flex{
+        display: flex;
+        justify-content: space-between;
+    }
+    .left-img{
+        width: 100%;
+    }
+    .top-img-p3{
+        width: 48%;
+    }
+    .div-width-center{
+        width: 49%;
+        margin-top: 5%;
+    }
+    .left-div {
+        width: 100%;
+    }
+    .div-aside-flex{
+        flex-wrap: wrap;
+    }
+    .margin-top-1-media{
+        margin-top: 5%;
+    }
+    .width-100-media{
+        width: 100%;
+    }
+    .aside-width{
+        margin-top: 5%;
+        width: 100%;
+        border: 0;
+    }
+    .img6{
+        width: 48%;
+        margin-top: 3%;
+        height: 264px;
+    }
+    .middle-section-flex{
+        flex-wrap: wrap;
+    }
+    .margin-top-negative-45-media{
+        margin-top: -1%;
+    }
+    .div-flex-right{
+        height: 48%;
+    }
+    .logos{
+        padding: 1% 1%;
+    }
+    .aside-paragraph-margin{
+            margin: 2% 2% 0;
+    }
+    .margin-left-25-media{
+        margin-left: 25%;
+    }
+    .padd-3imags {
+        padding: 36% 2% 0 2%;
+    }
+    .flex-p5{
+        flex-wrap: wrap;
+        height: 754px;
+    }
+    .div-flex-left{
+        width: 100%;
+    }
+    .flex-right-p5{
+        width: 100%;
+        margin-top: 4%;
+    }
+    .last-div{
+        margin-top: 160%;
+        margin-bottom: 4%;
+        margin-left: 42%;
+    }
+    .last-h5{
+        padding: 7% 14%;
+    }
+    .footer-flex{
+        flex-wrap: wrap;
+    }
+    .footer-design-media{
+        margin-top: 5%;
+        margin-left: 33%;
+        padding-bottom: 3%;
+    }
+    .width-35{
+        width: 48%;
+    }
+    .width-25{
+        width: 45%;
+    }
+    .width-50-media{
+        width: 50%;
+    }
+    .width-55-media{
+        width: 55%;
+    }
+    .mid-padd {
+        padding: 19% 0% 8% 0%;
+    }
+    .img8{
+        width: 34%;
+    }
+}
+
+
+
+
+
+
+
+@media (max-width:575.98px){
+.paragraph-p1{
+    width: 123%;
+}
+.num-p-flex-center{
+    width: 71%;
+    margin-left: 22%;
+}
+.num-p-flex{
+    display: none;
+}
+.p2-flex , .p3-flex{
+    flex-wrap: wrap;
+}
+.left-img , .top-img-p3{
+    width: 100%;
+}
+.div-width-center{
+    width: 100%;
+    margin-top: 10%;
+}
+.left-div {
+    width: 100%;
+}
+.div-aside-flex{
+    flex-wrap: wrap;
+}
+.margin-top-5-media{
+    margin-top: 5%;
+}
+.margin-top-1-media{
+    margin-top: 1%;
+}
+.aside-width{
+    margin-top: 5%;
+    width: 100%;
+    border: 0;
+}
+.img6{
+    width: 100%;
+    margin-top: 3%;
+    height: 210px;
+    margin-left: 0;
+}
+.middle-section-flex{
+    flex-wrap: wrap;
+}
+.margin-top-negative-45-media{
+    margin-top: 20%;
+}
+.padd-3imags{
+    padding: 18% 2% 0 2%;
+}
+.flex-p5{
+    flex-wrap: wrap;
+    height: 754px;
+}
+.div-flex-left{
+    width: 100%;
+}
+.flex-right-p5{
+    width: 100%;
+    margin-top: 4%;
+}
+.last-div{
+    margin-top: 184%;
+}
+.last-h5{
+    padding: 10% 0% 0% 18%;
+}
+.footer-flex{
+    flex-wrap: wrap;
+}
+.footer-design-media{
+    margin-top: 5%;
+    margin-left: 29%;
+    padding-bottom: 3%;
+}
+.width-35{
+    width: 48%;
+}
+.width-25{
+    width: 45%;
+}
+.width-50-media{
+    width: 50%;
+}
+.img3{
+    width: 45%;
+}
+.img4{
+    width: 35%;
+}
+.img9 {
+    width: 35%;
+}
+.mid-padd{
+    padding: 24% 0;
+}
+
+}
