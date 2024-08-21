@@ -41,11 +41,44 @@
     margin-top: 23px;
     margin-bottom: 5px;
 }
+.height-2px{
+    height: 2px;
+}
+.margin-top-27px{
+    margin-top: 27px !important;
+}
+.margin-left-7{
+    margin-left: 7%;
+}
+.width-310px{
+    width: 310px;
+}
+.width-360px{
+    width: 360px;
+}
+.width-85{
+    width: 85%;
+}
+.margin-1-3{
+    margin: 1% 3%;
+}
+.margin-top-1px{
+    margin-top: 1px;
+}
 .margin-top-60px{
     margin-top: 60px;
 }
+.margin-left-8px{
+    margin-left: 8px;
+}
+.margin-left-10px{
+    margin-left: 10px;
+}
 .width-90px{
     width: 90px;
+}
+.width-40px{
+    width: 40px;
 }
 .margin-top-6{
     margin-top: 6%;
@@ -133,9 +166,55 @@
 .width-33{
     width: 33%;
 }
+.width-160px{
+    width: 160px;
+}
+.width-26{
+    width: 26%;
+}
+.height-64px{
+    height: 64px;
+}
+.width-200px{
+    width: 200px;
+}
+.width-20{
+    width: 20%;
+}
+.padding-7{
+    padding: 7%;
+}
+.padding-5-11{
+    padding: 5% 11% ;  
+}  
+.padding-7-11{
+    padding: 7% 11% ;  
+}  
+.padding-9-7{
+    padding: 9% 7%;
+}
+.padding-5-10{
+    padding: 5% 10% ;  
+}   
+.padding-4-14{
+    padding: 4% 14%
+}
+.margin-bottom-7{
+    margin-bottom: 7%;
+}
 .font-size-60px{
     font-size: 60px;
 }
+.font-size-90px{
+    font-size: 90px;
+}
+.left-5{
+    left: 5%;
+}
+.top-negative-11{
+    top: -11%;
+}
+
 .width-350px{
     width: 350px !important;
 }
@@ -166,6 +245,9 @@
 .width-150px{
     width: 150px;
 }
+.width-115{
+    width: 115%;
+}
 .height-50px{
     height: 50px;
 }
@@ -175,11 +257,20 @@
 .padding-top-1{
     padding-top: 1%;
 }
+.margin-top-26{
+    margin-top: 26%;
+}
 .width-84{
     width: 84%;
 }
 .width-50{
     width: 50%;
+}
+.width-75{
+    width: 75%;
+}
+.height-127{
+    height: 127%;
 }
 .margin-6-0{
     margin: 6% 0;
@@ -190,6 +281,7 @@
 .margin-left-8{
     margin-left: 8%;
 }
+
 .div1{
     height: 200px;
 }
@@ -258,4 +350,25 @@
 }
 .height-600px{
     height: 600px;
+}
+.page-8{
+    width:360px
+}
+.page-8:hover img{
+  rotate: -4deg;
+  scale: 1.2;
+  transition-duration: 0.5s;
+  transition-timing-function:ease-in-out;
+}
+.left-bar{
+    background-color: black;
+}
+.page-8:hover .left-bar{
+    background-color: blue;
+}
+.page-8:hover .progress-bar{
+    width: 150% !important;
+}
+.image-shadow{
+    filter: drop-shadow(-4px 8px 16px rgba(0, 0, 0, 0.5)); 
 }
