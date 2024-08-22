@@ -59,7 +59,7 @@ $(document).ready(function(){
         margin: 20,
         nav: true,
         loop:true,
-        navText: ["<i class='fa-solid fa-left-long bg-primary rounded-start-pill text-white me-2'></i>", '<i class="fa-solid fa-right-long bg-primary rounded-end-pill text-white"></i>'],
+        navText: ["<i class='fa-solid fa-left-long bg-primary rounded-start-pill text-white me-2 width-40px'></i>", '<i class="fa-solid fa-right-long bg-primary rounded-end-pill text-white width-40px"></i>'],
         responsive: {
             // breakpoint from 0 up
             0: {

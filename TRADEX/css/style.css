@@ -302,6 +302,16 @@ width: 95%;
 .margin-9{
     margin: 9%;
 }
+.btn-white-footer{
+    background-color: white;
+    color: black;
+}
+.logo-page8{
+    color: white;
+}
+.top-6{
+    top: 6%;
+}
 
 
 /* Custom style */
@@ -430,4 +440,29 @@ width: 95%;
     width: 10px !important;
     background-color: transparent !important;
     border: 1px white solid;
+}
+.btn-white-footer:hover{
+    background-color: blue;
+    color: white;
+}
+.logo-page8:hover{
+    color: lightblue;
+}
+form input:focus{
+    outline: none;
+}
+form textarea:focus{
+    outline: none;
+}
+form input:hover{
+    border: 1px solid blue !important;
+    border-top: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+}
+form textarea:hover{
+    border: 1px solid blue !important;
+    border-top: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
 }
